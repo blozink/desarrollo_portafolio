@@ -35,5 +35,11 @@ body {
   .navbar-brand{
     width: 100px;
   }
-
 }
+
+/* Quitar link de botones*/
+a {
+  text-decoration: none; 
+}
+
+
